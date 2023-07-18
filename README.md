@@ -29,7 +29,7 @@ You'll need to download the BETA Teensy Software [here](https://www.arduino.cc/e
 
 ## [3xAA Battery Holder to Power this Project](https://a.co/d/df2GFEO) - $7
 
-## [Male/Female Pins/Headers](
+## [Male/Female Pins/Headers](https://a.co/d/bD6Ysn1) - $8
 
 ## Not Required but highly recommended:
 
