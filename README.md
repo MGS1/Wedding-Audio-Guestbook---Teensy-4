@@ -27,7 +27,7 @@ You'll need to download the Teensy Software [here](https://www.arduino.cc/en/sof
 
 ### [24 AWG Wire](https://a.co/d/054YrJi) - $8
 
-## Not Required but Highly Recommended:
+## Not Required but highly recommended:
 
 ### [Gorilla Glue to glue everything down like electrical tape](https://www.amazon.com/Gorilla-Construction-Adhesive-Strength-Ounce/dp/B0916KZ598/ref=sr_1_4?crid=35HBFEW48MZNX&keywords=gorilla+glue+clear&qid=1689642099&s=industrial&sprefix=gorilla+%2Cindustrial%2C249&sr=1-4) - $8
 
