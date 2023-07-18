@@ -13,7 +13,7 @@ You'll need to download the BETA Teensy Software [here](https://www.arduino.cc/e
 
 ### [30 amp soldering iron from Walmart (located in the auto section)](https://www.walmart.com/ip/Hyper-Tough-30-Watt-Soldering-Iron-with-Stand-and-Electrical-Solder/274899628?wmlspartner=wlpa&selectedSellerId=0&wl13=1895&adid=22222222277274899628_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-294505072980&wl5=9015392&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=274899628&wl13=1895&veh=sem_LIA&gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbykdQrN3S5puudsuJeSOVv7KG2DbdfFBIo_aHOcQ6fOC02kjI1ItnYaAvMiEALw_wcB&gclsrc=aw.ds) - $12
 
-### [Teensy Audio Board](https://www.amazon.com/gp/product/B07Z6NW913/ref=ox_sc_act_title_2?smid=A2GTSJRNFEVVSP&psc=1) - $18
+### [Teensy 4 Audio Board](https://www.amazon.com/gp/product/B07Z6NW913/ref=ox_sc_act_title_2?smid=A2GTSJRNFEVVSP&psc=1) - $18
 
 ### [Teensy 4](https://www.amazon.com/PJRC-Microcontroller-Development-Lockable-Version/dp/B09X27NXL5/ref=sr_1_1?crid=37XTZ59CGJ5KI&keywords=teensy+4&qid=1689640360&s=electronics&sprefix=tensy+4%2Celectronics%2C1703&sr=1-1) - $28
 
