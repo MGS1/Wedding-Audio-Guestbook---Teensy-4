@@ -1,13 +1,13 @@
 # Wedding-Audio-Guestbook---Teensy-4
-Wedding voicemail using a Teensy 4.0 with 4.0 Teensy Audio Shield. When handset is lifted, a pre-recorded greeting message is played followed by a tone and records in WAV format, saves to an SD card, and continues until the handset is replaced. Playback button and on/off switch. Details below:
+Wedding voicemail using a Teensy 4.0 with 4.0 Teensy Audio Shield. Handset is lifted, a pre-recorded greeting plays followed by a beep, then recording starts, saves to an SD card in WAV format, and continues until the handset is replaced. Playback button and on/off switch. Details below:
 
 ## APPROXIMATE COST: ~$120 in parts + cost of the phone itself.
 
 This is a 'simplified' step-by-step tutorial (even for those who haven't done something of the sort before) using a Teensy 4.0 with 4.0 Teensy Audio Shield. When the handset is lifted, a custom, pre-recorded greeting message is played followed by a beep. Recording starts, saves to an SD card in WAV format, and continues until the handset is placed back on the 'hook.' A pushbutton allows for playback of the last recorded message. Another push button powers the phone on and off. A pre-recorded "Greeting.wav" audio file stored on the SanDisk Ultra micro SD card must be converted to 16 bit signed 44.1 kHz (using FREE Audacity software) for the software to recognize and then play the message upon picking up the handset.
 
-SIDE-NOTE: I've made approximately 50 phones at this point and regularly respond to YouTube comments (on the original audio guestbook guide) which can be found [here](https://youtu.be/dI6ielrP1SE). Not only have I managed to eliminate some of the hardware this tutorial has suggested you buy, but I've taken it a step or two further and improved the overall design to maximize ruggedness and ergonomics (i.e. the only reason to take the phone cover off is to replace batteries). I'm not making enough profit even from assembling projects people have bought and then sent to me nor with donations from helpful input give via Reddit [here](https://www.reddit.com/user/puissantvirtuoso/). I recently converted several phones for a business that fell victim to the patent that recently was awarded to "After the Tone." Here is my Venmo link if you feel so inclined to gift:`https://account.venmo.com/u/Mars-Aurelius`.
+SIDE-NOTE: I've made approximately 50 phones at this point and regularly respond to YouTube comments (on the original audio guestbook guide) which can be found [here](https://youtu.be/dI6ielrP1SE). Not only have I managed to eliminate some of the hardware this tutorial suggests you buy, but I've taken it a step or two further and improved the overall design to maximize ruggedness and ergonomics (i.e. the only reason to take the phone cover off is to replace batteries). I've not made enough profit from assembling projects for people who buy/send the materials to me nor with from donations from helpful input give via Reddit [here](https://www.reddit.com/user/puissantvirtuoso/). I recently converted several phones for a business that fell victim to the patent that recently was awarded to "After the Tone." Here is my Venmo link if you feel so inclined to gift :`https://account.venmo.com/u/Mars-Aurelius`.
 
-You'll need to download the Teensy Software [here](https://www.arduino.cc/en/software). This is important because it enables MTP files transfer from the micro SD without having to removeit from the phone.
+You'll need to download the BETA Teensy Software [here](https://www.arduino.cc/en/software). This is important because it enables MTP files transfer from the micro SD without having to remove it from the phone.
 
 ## Below are the items to order:
 
@@ -26,6 +26,8 @@ You'll need to download the Teensy Software [here](https://www.arduino.cc/en/sof
 ### [PlayBack Button Switch](https://www.amazon.com/dp/B09BKXT1J1?ref_=cm_sw_r_apin_dp_HXBY2PMP0RN0EAWKBVA7) - $13
 
 ### [24 AWG Wire](https://a.co/d/054YrJi) - $8
+
+## [3xAA Battery Holder to Power this Project]() - $8
 
 ## Not Required but highly recommended:
 
