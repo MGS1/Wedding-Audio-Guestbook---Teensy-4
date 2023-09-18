@@ -7,11 +7,11 @@ SIDE-NOTE: I've made approximately 50 phones at this point and regularly respond
 
 # SOFTWARE:
 ### You'll need to download the BETA Teensy Software [here](https://www.arduino.cc/en/software). This is important because it enables file transfers from the micro SD without having to remove it from the Teensy. A mounted port can eliminate the need to open the phone at all (except to replace batteries).
-### You'll need to download the project files (in ZIP format) from the original YouTube Video GitHub to upload onto the microcontrolles [here](https://github.com/playfultechnology/audio-guestbook/tree/main).
+### You'll need to download the project files (in ZIP format) from the original YouTube Video GitHub to upload onto the Teensy [here](https://github.com/playfultechnology/audio-guestbook/tree/main).
 
 # BILL OF MATERIALS (## APPROXIMATE COST: ~$120 in parts + cost of the phone itself):
 
-I used a simple sodering iron from Walmart for this project. These boards are rugged so there's little worry when soldering. 
+I used a simple soldering iron from Walmart for this project. These boards are rugged so there's little worry when soldering. 
 #### [30 amp soldering iron from Walmart (located in the auto section)](https://www.walmart.com/ip/Hyper-Tough-30-Watt-Soldering-Iron-with-Stand-and-Electrical-Solder/274899628?wmlspartner=wlpa&selectedSellerId=0&wl13=1895&adid=22222222277274899628_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-294505072980&wl5=9015392&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=274899628&wl13=1895&veh=sem_LIA&gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbykdQrN3S5puudsuJeSOVv7KG2DbdfFBIo_aHOcQ6fOC02kjI1ItnYaAvMiEALw_wcB&gclsrc=aw.ds) - $12
 
 ## Below are items to order:
@@ -41,3 +41,5 @@ I used a simple sodering iron from Walmart for this project. These boards are ru
 ### [Heat Shrink tubing to Enforce Solder Joints](https://www.amazon.com/dp/B0BLK98LBM?ref_=cm_sw_r_apin_dp_M30W6KX3CNSPE8XHGHYZ) - $8
 
 ### [Skinny Zip-ties for Cable Management](https://www.amazon.com/Inch-120pcs-Nylon-Cable-Multi-colors/dp/B07K2CHPJJ/ref=sr_1_11?keywords=small+zip+ties&qid=1689642314&s=industrial&sr=1-11) - $5
+
+### [Microphone if the Carbon Mic is Bad](https://www.amazon.com/Inch-120pcs-Nylon-Cable-Multi-colors/dp/B07K2CHPJJ/ref=sr_1_11?keywords=small+zip+ties&qid=1689642314&s=industrial&sr=1-11](https://a.co/d/faget91)https://a.co/d/faget91) - $5
