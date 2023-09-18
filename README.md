@@ -1,21 +1,20 @@
-# Wedding-Audio-Guestbook---Teensy-4
+# OVERVIEW
 Wedding voicemail using a Teensy 4.0 with 4.0 Teensy Audio Shield. Handset is lifted, a pre-recorded greeting plays followed by a beep, then recording starts, saves to an SD card in WAV format, and continues until the handset is replaced. Playback button and on/off switch. Details below:
-
-## APPROXIMATE COST: ~$120 in parts + cost of the phone itself.
 
 This is a 'simplified' step-by-step tutorial (even for those who haven't done something of the sort before) using a Teensy 4.0 with 4.0 Teensy Audio Shield. When the handset is lifted, a custom, pre-recorded greeting message is played followed by a beep. Recording starts, saves to an SD card in WAV format, and continues until the handset is placed back on the 'hook.' A pushbutton allows for playback of the last recorded message. Another push button powers the phone on and off. A pre-recorded "Greeting.wav" audio file stored on the SanDisk Ultra micro SD card must be converted to 16 bit signed 44.1 kHz (using FREE Audacity software) for the software to recognize and then play the message upon picking up the handset.
 
 SIDE-NOTE: I've made approximately 50 phones at this point and regularly respond to YouTube comments (on the original audio guestbook guide) which can be found [here](https://youtu.be/dI6ielrP1SE). Not only have I managed to eliminate some of the hardware this tutorial suggests you buy, but I've taken it a step or two further and improved the overall design to maximize ruggedness and ergonomics (i.e. the only reason to take the phone cover off is to replace batteries). I've not made enough profit from assembling projects for people who buy/send the materials to me nor from the donations I've gotten from helpful input given via Reddit [here](https://www.reddit.com/user/puissantvirtuoso/). I recently converted several phones for a business that fell victim to the patent that recently was awarded to "After the Tone." Here is my Venmo link if you feel so inclined to gift :`https://account.venmo.com/u/Mars-Aurelius`.
 
+# SOFTWARE:
 ### You'll need to download the BETA Teensy Software [here](https://www.arduino.cc/en/software). This is important because it enables file transfers from the micro SD without having to remove it from the Teensy. A mounted port can eliminate the need to open the phone at all (except to replace batteries).
 ### You'll need to download the project files (in ZIP format) from the original YouTube Video GitHub to upload onto the microcontrolles [here](https://github.com/playfultechnology/audio-guestbook/tree/main).
 
-# BILL OF MATERIALS:
+# BILL OF MATERIALS (## APPROXIMATE COST: ~$120 in parts + cost of the phone itself):
 
 I used a simple sodering iron from Walmart for this project. These boards are rugged so there's little worry when soldering. 
 #### [30 amp soldering iron from Walmart (located in the auto section)](https://www.walmart.com/ip/Hyper-Tough-30-Watt-Soldering-Iron-with-Stand-and-Electrical-Solder/274899628?wmlspartner=wlpa&selectedSellerId=0&wl13=1895&adid=22222222277274899628_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-294505072980&wl5=9015392&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=274899628&wl13=1895&veh=sem_LIA&gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbykdQrN3S5puudsuJeSOVv7KG2DbdfFBIo_aHOcQ6fOC02kjI1ItnYaAvMiEALw_wcB&gclsrc=aw.ds) - $12
 
-## Below are the items to order:
+## Below are items to order:
 
 ### [Teensy 4 Audio Board](https://www.amazon.com/gp/product/B07Z6NW913/ref=ox_sc_act_title_2?smid=A2GTSJRNFEVVSP&psc=1) - $18
 
