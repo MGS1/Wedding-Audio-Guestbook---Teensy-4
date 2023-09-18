@@ -9,7 +9,8 @@ SIDE-NOTE: I've made approximately 50 phones at this point and regularly respond
 
 You'll need to download the BETA Teensy Software [here](https://www.arduino.cc/en/software). This is important because it enables MTP files transfer from the micro SD without having to remove it from the phone.
 
-I used a simple sodering iron from Walmart for this project. These boards are rugged so there's little worry when soldering. ### [30 amp soldering iron from Walmart (located in the auto section)](https://www.walmart.com/ip/Hyper-Tough-30-Watt-Soldering-Iron-with-Stand-and-Electrical-Solder/274899628?wmlspartner=wlpa&selectedSellerId=0&wl13=1895&adid=22222222277274899628_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-294505072980&wl5=9015392&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=274899628&wl13=1895&veh=sem_LIA&gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbykdQrN3S5puudsuJeSOVv7KG2DbdfFBIo_aHOcQ6fOC02kjI1ItnYaAvMiEALw_wcB&gclsrc=aw.ds) - $12
+I used a simple sodering iron from Walmart for this project. These boards are rugged so there's little worry when soldering. 
+### [30 amp soldering iron from Walmart (located in the auto section)](https://www.walmart.com/ip/Hyper-Tough-30-Watt-Soldering-Iron-with-Stand-and-Electrical-Solder/274899628?wmlspartner=wlpa&selectedSellerId=0&wl13=1895&adid=22222222277274899628_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-294505072980&wl5=9015392&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=274899628&wl13=1895&veh=sem_LIA&gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbykdQrN3S5puudsuJeSOVv7KG2DbdfFBIo_aHOcQ6fOC02kjI1ItnYaAvMiEALw_wcB&gclsrc=aw.ds) - $12
 
 ## Below are the items to order:
 
