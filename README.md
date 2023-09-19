@@ -42,4 +42,6 @@ I used a simple soldering iron from Walmart for this project. These boards are r
 
 ### [Skinny Zip-ties for Cable Management](https://www.amazon.com/Inch-120pcs-Nylon-Cable-Multi-colors/dp/B07K2CHPJJ/ref=sr_1_11?keywords=small+zip+ties&qid=1689642314&s=industrial&sr=1-11) - $5
 
-### [Microphone if the Carbon Mic is Bad](https://www.amazon.com/Inch-120pcs-Nylon-Cable-Multi-colors/dp/B07K2CHPJJ/ref=sr_1_11?keywords=small+zip+ties&qid=1689642314&s=industrial&sr=1-11](https://a.co/d/faget91)https://a.co/d/faget91) - $5
+### [Microphone if the Carbon Mic is Bad](https://a.co/d/faget91) - $8
+
+### [A Replcaement Speaker if the Original is Bad](https://www.amazon.com/Inch-120pcs-Nylon-Cable-Multi-colors/dp/B07K2CHPJJ/ref=sr_1_11?keywords=small+zip+ties&qid=1689642314&s=industrial&sr=1-11](https://a.co/d/hnVUSBS) - $9
