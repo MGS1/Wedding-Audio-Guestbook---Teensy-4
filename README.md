@@ -44,4 +44,4 @@ I used a simple soldering iron from Walmart for this project. These boards are r
 
 ### [Microphone if the Carbon Mic is Bad](https://a.co/d/dUk70MY) - $8
 
-### [A Replcaement Speaker if the Original is Bad](https://a.co/d/hnVUSBS) - $9
+### [A Replacement Speaker if the Original is Bad](https://a.co/d/hnVUSBS) - $9
