@@ -9,39 +9,39 @@ SIDE-NOTE: I've made approximately 50 phones at this point and regularly respond
 ### You'll need to download the BETA Teensy Software [here](https://www.arduino.cc/en/software). This is important because it enables file transfers from the micro SD without having to remove it from the Teensy. A mounted port can eliminate the need to open the phone at all (except to replace batteries).
 ### You'll need to download the project files (in ZIP format) from the original YouTube Video GitHub to upload onto the Teensy [here](https://github.com/playfultechnology/audio-guestbook/tree/main).
 
-# BILL OF MATERIALS (## APPROXIMATE COST: ~$120 in parts + cost of the phone itself):
+# BILL OF MATERIALS (## APPROXIMATE COST:
 
 I used a simple soldering iron from Walmart for this project. These boards are rugged so there's little worry when soldering. 
 #### [30 amp soldering iron from Walmart (located in the auto section)](https://www.walmart.com/ip/Hyper-Tough-30-Watt-Soldering-Iron-with-Stand-and-Electrical-Solder/274899628?wmlspartner=wlpa&selectedSellerId=0&wl13=1895&adid=22222222277274899628_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-294505072980&wl5=9015392&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=274899628&wl13=1895&veh=sem_LIA&gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbykdQrN3S5puudsuJeSOVv7KG2DbdfFBIo_aHOcQ6fOC02kjI1ItnYaAvMiEALw_wcB&gclsrc=aw.ds) - $12
 
 ## Below are items to order:
 
-### [Teensy 4 Audio Board](https://www.amazon.com/gp/product/B07Z6NW913/ref=ox_sc_act_title_2?smid=A2GTSJRNFEVVSP&psc=1) - $18
+#### [Teensy 4 Audio Board](https://www.amazon.com/gp/product/B07Z6NW913/ref=ox_sc_act_title_2?smid=A2GTSJRNFEVVSP&psc=1) - $18
 
-### [Teensy 4](https://www.amazon.com/PJRC-Microcontroller-Development-Lockable-Version/dp/B09X27NXL5/ref=sr_1_1?crid=37XTZ59CGJ5KI&keywords=teensy+4&qid=1689640360&s=electronics&sprefix=tensy+4%2Celectronics%2C1703&sr=1-1) - $28
+#### [Teensy 4](https://www.amazon.com/PJRC-Microcontroller-Development-Lockable-Version/dp/B09X27NXL5/ref=sr_1_1?crid=37XTZ59CGJ5KI&keywords=teensy+4&qid=1689640360&s=electronics&sprefix=tensy+4%2Celectronics%2C1703&sr=1-1) - $28
 
-### [Mountabled Micro USB port to transfer files from Micro SD directly without removing SD card or phone cover](https://www.adafruit.com/product/4217?gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oKDg6ZUNy0jwFyrbgXlQiEyEXlkNRDUzN44n1SIFiucr9ZN2WgOYWYaAl77EALw_wcB) - $5
+#### [Mountabled Micro USB port to transfer files from Micro SD directly without removing SD card or phone cover](https://www.adafruit.com/product/4217?gclid=Cj0KCQjw7aqkBhDPARIsAKGa0oKDg6ZUNy0jwFyrbgXlQiEyEXlkNRDUzN44n1SIFiucr9ZN2WgOYWYaAl77EALw_wcB) - $5
 
-### [Power Button On/Off Switch](https://www.amazon.com/dp/B0927153HN?ref_=cm_sw_r_apin_dp_SGKWW03W33SRRYP3TKR0) - $11
+#### [Power Button On/Off Switch](https://www.amazon.com/dp/B0927153HN?ref_=cm_sw_r_apin_dp_SGKWW03W33SRRYP3TKR0) - $11
 
-### [32 GB SandDisk Ultra Micro SD Card - This card is fast enough for this project, please do not deviate](https://www.amazon.com/SanDisk-Ultra-UHS-I-Memory-Adapter/dp/B00M55C0NS) - $8
+#### [32 GB SandDisk Ultra Micro SD Card - This card is fast enough for this project, please do not deviate](https://www.amazon.com/SanDisk-Ultra-UHS-I-Memory-Adapter/dp/B00M55C0NS) - $8
 
-### [PlayBack Button Switch](https://www.amazon.com/dp/B09BKXT1J1?ref_=cm_sw_r_apin_dp_HXBY2PMP0RN0EAWKBVA7) - $13
+#### [PlayBack Button Switch](https://www.amazon.com/dp/B09BKXT1J1?ref_=cm_sw_r_apin_dp_HXBY2PMP0RN0EAWKBVA7) - $13
 
-### [24 AWG Wire](https://a.co/d/054YrJi) - $8
+#### [24 AWG Wire](https://a.co/d/054YrJi) - $8
 
-## [3xAA Battery Holder to Power this Project](https://a.co/d/df2GFEO) - $7
+#### [3xAA Battery Holder to Power this Project](https://a.co/d/df2GFEO) - $7
 
-## [Male/Female Pins/Headers](https://a.co/d/bD6Ysn1) - $9
+#### [Male/Female Pins/Headers](https://a.co/d/bD6Ysn1) - $9
 
 ## Not Required but highly recommended:
 
-### [Gorilla Glue to glue everything down - basically liquid electrical tape](https://www.amazon.com/Gorilla-Construction-Adhesive-Strength-Ounce/dp/B0916KZ598/ref=sr_1_4?crid=35HBFEW48MZNX&keywords=gorilla+glue+clear&qid=1689642099&s=industrial&sprefix=gorilla+%2Cindustrial%2C249&sr=1-4) - $8
+#### [Gorilla Glue to glue everything down - basically liquid electrical tape](https://www.amazon.com/Gorilla-Construction-Adhesive-Strength-Ounce/dp/B0916KZ598/ref=sr_1_4?crid=35HBFEW48MZNX&keywords=gorilla+glue+clear&qid=1689642099&s=industrial&sprefix=gorilla+%2Cindustrial%2C249&sr=1-4) - $8
 
-### [Heat Shrink tubing to Enforce Solder Joints](https://www.amazon.com/dp/B0BLK98LBM?ref_=cm_sw_r_apin_dp_M30W6KX3CNSPE8XHGHYZ) - $8
+#### [Heat Shrink tubing to Enforce Solder Joints](https://www.amazon.com/dp/B0BLK98LBM?ref_=cm_sw_r_apin_dp_M30W6KX3CNSPE8XHGHYZ) - $8
 
-### [Skinny Zip-ties for Cable Management](https://www.amazon.com/Inch-120pcs-Nylon-Cable-Multi-colors/dp/B07K2CHPJJ/ref=sr_1_11?keywords=small+zip+ties&qid=1689642314&s=industrial&sr=1-11) - $5
+#### [Skinny Zip-ties for Cable Management](https://www.amazon.com/Inch-120pcs-Nylon-Cable-Multi-colors/dp/B07K2CHPJJ/ref=sr_1_11?keywords=small+zip+ties&qid=1689642314&s=industrial&sr=1-11) - $5
 
-### [Microphone if the Carbon Mic is Bad](https://a.co/d/dUk70MY) - $8
+#### [Microphone if the Carbon Mic is Bad](https://a.co/d/dUk70MY) - $8
 
-### [A Replacement Speaker if the Original is Bad](https://a.co/d/hnVUSBS) - $9
+#### [A Replacement Speaker if the Original is Bad](https://a.co/d/hnVUSBS) - $9
