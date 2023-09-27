@@ -12,7 +12,7 @@ SIDE-NOTE: I've made approximately 50 phones at this point and regularly respond
 # BILL OF MATERIALS:
 
 I used a simple soldering iron from Walmart for this project. These boards are rugged so there's little worry when soldering. 
-#### [30 amp soldering iron from Walmart (located in the auto section)](https://www.walmart.com/ip/Hyper-Tough-30-Watt-Soldering-Iron-with-Stand-and-Electrical-Solder/274899628?wmlspartner=wlpa&selectedSellerId=0&wl13=1895&adid=22222222277274899628_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-294505072980&wl5=9015392&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=274899628&wl13=1895&veh=sem_LIA&gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbykdQrN3S5puudsuJeSOVv7KG2DbdfFBIo_aHOcQ6fOC02kjI1ItnYaAvMiEALw_wcB&gclsrc=aw.ds) - $12
+#### [30 watt soldering iron from Walmart (located in the auto section)](https://www.walmart.com/ip/Hyper-Tough-30-Watt-Soldering-Iron-with-Stand-and-Electrical-Solder/274899628?wmlspartner=wlpa&selectedSellerId=0&wl13=1895&adid=22222222277274899628_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-294505072980&wl5=9015392&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=274899628&wl13=1895&veh=sem_LIA&gclid=Cj0KCQjwzdOlBhCNARIsAPMwjbykdQrN3S5puudsuJeSOVv7KG2DbdfFBIo_aHOcQ6fOC02kjI1ItnYaAvMiEALw_wcB&gclsrc=aw.ds) - $12
 
 ## Below are items to order:
 
@@ -24,7 +24,7 @@ I used a simple soldering iron from Walmart for this project. These boards are r
 
 #### [Power Button On/Off Switch](https://www.amazon.com/dp/B0927153HN?ref_=cm_sw_r_apin_dp_SGKWW03W33SRRYP3TKR0) - $11
 
-#### [32 GB SandDisk Ultra Micro SD Card - This card is fast enough for this project, please do not deviate](https://www.amazon.com/SanDisk-Ultra-UHS-I-Memory-Adapter/dp/B00M55C0NS) - $8
+#### [32 GB SandDisk Ultra Micro SD Card - This card is fast enough for this project. It must be a SanDisk Ultra](https://www.amazon.com/SanDisk-Ultra-UHS-I-Memory-Adapter/dp/B00M55C0NS) - $8
 
 #### [PlayBack Button Switch](https://www.amazon.com/dp/B09BKXT1J1?ref_=cm_sw_r_apin_dp_HXBY2PMP0RN0EAWKBVA7) - $13
 
